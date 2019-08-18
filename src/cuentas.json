@@ -1,0 +1,18 @@
+{
+    "cuentas": [
+      {
+        "title": "Cuenta de ahorros",
+        "responsible": "Martin",
+        "description": "Lps. 1458.00",
+        "priority": "low"
+      }
+    ],
+
+    "transacciones":[
+        {
+            "title": "Deposito",
+            "description": "Lps. 1458.00"
+        }
+
+    ]
+  }
