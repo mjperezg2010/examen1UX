@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/examen1UX/static/css/main.b36729f9.chunk.css",
+    "main.js": "/examen1UX/static/js/main.2d99afa0.chunk.js",
+    "main.js.map": "/examen1UX/static/js/main.2d99afa0.chunk.js.map",
+    "runtime~main.js": "/examen1UX/static/js/runtime~main.d0c8d869.js",
+    "runtime~main.js.map": "/examen1UX/static/js/runtime~main.d0c8d869.js.map",
+    "static/js/2.cf42f021.chunk.js": "/examen1UX/static/js/2.cf42f021.chunk.js",
+    "static/js/2.cf42f021.chunk.js.map": "/examen1UX/static/js/2.cf42f021.chunk.js.map",
+    "index.html": "/examen1UX/index.html",
+    "precache-manifest.b55dd4062e69b5e58d7ef7a4ceab5580.js": "/examen1UX/precache-manifest.b55dd4062e69b5e58d7ef7a4ceab5580.js",
+    "service-worker.js": "/examen1UX/service-worker.js",
+    "static/css/main.b36729f9.chunk.css.map": "/examen1UX/static/css/main.b36729f9.chunk.css.map"
+  }
+}
