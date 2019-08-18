@@ -13,11 +13,7 @@ class App extends Component{
       <div className="row">
       {/*Componente titulo*/}
       <Titulo name="Interbanca"/>
-
-
       </div>
-       
-
         <div className="row">
           {/*Componente Informacion*/}
           <Informacion col="col s7"/>

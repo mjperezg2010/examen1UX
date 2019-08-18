@@ -15,8 +15,6 @@ class DatTransaccion extends React.Component {
 
     }
 
-
-
     handleSubmit(e) {
 
         e.preventDefault();
@@ -38,12 +36,6 @@ class DatTransaccion extends React.Component {
           [name]: value
         });
     }
-
-
-
-
-
-
 
 
     render(){
